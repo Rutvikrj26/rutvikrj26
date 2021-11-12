@@ -33,10 +33,14 @@ I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical
 | <a href="https://github.com/rutvikrj26"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvikrj26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rutvik's github stats" /></a> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikrj26&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
- #### Ongoing Side-Project
+ #### Ongoing Side Projects
 
 <a href="https://github.com/Rutvikrj26/themechcafe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=themechcafe&theme=buefy" />
+</a>
+
+<a href="https://github.com/Rutvikrj26/inventory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=inventory&theme=buefy" />
 </a>
 
 <br />
