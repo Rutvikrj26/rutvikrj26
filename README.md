@@ -3,17 +3,17 @@ I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical
 
 **About me**
 
-- 💼 Aerospace Engineering Student at [Institute of Aerospace Studies, University of Tornot](https://www.utias.utoronto.ca//)
+- Aerospace Engineering Student at [Institute of Aerospace Studies, University of Tornot](https://www.utias.utoronto.ca//)
 
-- 📈 Worked on Several Web Development Projects, mostly using React and Gatsby JS, my favourite front-end tool for creating blazing fast websites
+- Worked on Several Web Development Projects, mostly using React and Gatsby JS, my favourite front-end tool for creating blazing fast websites
 
-- 📈 I have also worked as a full-stack developer, and developed 3 web applications using Django which can be found in my repositories.
+- I have also worked as a full-stack developer, and developed 3 web applications using Django which can be found in my repositories.
 
--  ❤️ Apart from Web Development, you can also find repositories for my coursework material, codes for computational Mechanics and Design Optimization codes
+- Apart from Web Development, you can also find repositories for my coursework material, codes for computational Mechanics and Design Optimization codes
 
--  ❤️ I have firm grasp on python and Matlab(including Simulink), which I use for modelling, optimization, and Vizualization projects 
+- I have firm grasp on python and Matlab(including Simulink), which I use for modelling, optimization, and Vizualization projects 
 
--  ❤️ You can also find some Machine learning and Deep Learning codes, whcih I have ulized for Data Analytics in my traineeship and internship prjects
+- You can also find some Machine learning and Deep Learning codes, whcih I have ulized for Data Analytics in my traineeship and internship prjects
 
 - 💬 It would be great if I could network with you [here](https://rutvik-solanki.ml/contact)
 
