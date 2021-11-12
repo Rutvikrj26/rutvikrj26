@@ -37,7 +37,6 @@ I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical
 
 
 <a href="https://github.com/Rutvikrj26/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=portfolio&theme=buefy" />
 </a>
 
 <a href="https://github.com/Rutvikrj26/themechcafe">
@@ -46,10 +45,3 @@ I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical
 
 <br />
 <br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
