@@ -24,8 +24,8 @@ I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gatsby/gatsby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Django/Django.png"></code>    
+<code><img height="20" src="https://images.ctfassets.net/42myiudv0u8b/6rkOXCpyvuekYIgy6U6gGu/ea5dbe70e522413ef48b97c6e949a7d6/1_t5EnAu3eSWJA0rmZ9v3xuw.png"></code>
+<code><img height="20" src="https://ih1.redbubble.net/image.399557482.5366/flat,550x550,075,f.jpg"></code>    
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 
