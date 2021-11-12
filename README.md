@@ -1,9 +1,9 @@
-I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical Engineer by profession, currently studing Aerospace Engineering at University of Toronto. Web development is my hobby and I love developing elegant websites in my free time. You can learn about my journey as a Web Developer on my [personal Website](hhtps://Rutvik-Solanki.ml).
+I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical Engineer by profession, currently studing Aerospace Engineering at University of Toronto. Web development is my hobby and I love developing elegant websites in my free time. You can learn about my journey as a Web Developer on my [personal Website](https://Rutvik-Solanki.ml).
 
 
 **About me**
 
-- Aerospace Engineering Student at [Institute of Aerospace Studies, University of Tornot](https://www.utias.utoronto.ca//)
+- Aerospace Engineering Student at [Institute of Aerospace Studies, University of Toront](https://www.utias.utoronto.ca//)
 
 - Worked on Several Web Development Projects, mostly using React and Gatsby JS, my favourite front-end tool for creating blazing fast websites
 
