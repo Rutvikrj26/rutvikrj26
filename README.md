@@ -3,7 +3,7 @@ I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical
 
 **About me**
 
-- Aerospace Engineering Student at [Institute of Aerospace Studies, University of Toront](https://www.utias.utoronto.ca//)
+- Aerospace Engineering Student at [Institute of Aerospace Studies, University of Toronto](https://www.utias.utoronto.ca//)
 
 - Worked on Several Web Development Projects, mostly using React and Gatsby JS, my favourite front-end tool for creating blazing fast websites
 
