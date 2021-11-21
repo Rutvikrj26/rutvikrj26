@@ -35,10 +35,6 @@ I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical
 
  #### Ongoing Side Projects
 
-<a href="https://github.com/Rutvikrj26/themechcafe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=themechcafe&theme=buefy" />
-</a>
-
 <a href="https://github.com/Rutvikrj26/inventory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=inventory&theme=buefy" />
 </a>
