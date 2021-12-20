@@ -1,4 +1,4 @@
-I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical Engineer by profession, currently studing Aerospace Engineering at University of Toronto. Web development is my hobby and I love developing elegant websites in my free time. You can learn about my journey as a Web Developer on my [personal Website](https://Rutvik-Solanki.ml).
+I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical Engineer by profession, currently studing Aerospace Engineering at University of Toronto. Web development is my hobby and I love developing elegant websites in my free time. You can learn about my journey as a Web Developer on my [personal Website](https://themechcafe.ml).
 
 
 **About me**
@@ -15,7 +15,7 @@ I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical
 
 - You can also find some Machine learning and Deep Learning codes, whcih I have ulized for Data Analytics in my traineeship and internship prjects
 
-- 💬 It would be great if I could network with you [here](https://rutvik-solanki.ml/contact)
+- 💬 It would be great if I could network with you [here](https://themechcafe.ml/contact)
 
 
 
