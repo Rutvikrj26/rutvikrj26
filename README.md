@@ -15,7 +15,7 @@ I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical
 
 - You can also find some Machine learning and Deep Learning codes, whcih I have ulized for Data Analytics in my traineeship and internship prjects
 
-- 💬 It would be great if I could network with you [here](https://linkedin.com/inéconnectwithrutvik)
+- 💬 It would be great if I could network with you [here](https://linkedin.com/in/connectwithrutvik)
 
 
 
