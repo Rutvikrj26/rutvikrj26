@@ -1,4 +1,4 @@
-I'm a self-taught part-time Web-developer from India 🇮🇳. I am a Mechanical Engineer by profession, currently studing Aerospace Engineering at University of Toronto. Web development is my hobby and I love developing elegant websites in my free time. You can learn about my journey as a Web Developer on my [personal Website](https://themechcafe.ml).
+I'm a Software Engineer from India 🇮🇳. I am a Mechanical Engineer by profession, currently studing Aerospace Engineering at University of Toronto. Web development is my hobby and I love developing elegant websites in my free time. You can learn about my journey as a Web Developer on my [personal Website](https://rutvik-solanki.ml).
 
 
 **About me**
