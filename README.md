@@ -1,19 +1,19 @@
-I'm a budding Back-End Software Engineer. I currently work with multiple organizations as part-time intern helping them develop and improve their infrastructure, alongside gaining valuable developer experience. You can checkout my organizations in my profile. I am also currently pursuing Masters of Engineering at University of Toronto. Apart from Swimming(my main hobby), Web development is also my hobby and I love developing elegant websites in my free time. You can learn about my journey as a Web Developer on my [personal Website](https://rutvik-solanki.ml) - Still a Work in Progress.
+I'm a budding Systems Engineer with experience in Software systems for Aerospace, Robotics and Business Process Engineering Domains. I currently work with multiple organizations as part-time intern helping them develop and improve their infrastructure, alongside gaining valuable experience. You can checkout my organizations in my profile. I am also currently pursuing Masters of Engineering at University of Toronto. Apart from Swimming(my main hobby), Web development is also my hobby and I love developing elegant & business-oriented websites in my free time as a freelancer. You can learn about my journey on my [personal Website](https://rutvik-solanki.ml) - Still a Work in Progress.
 
 
-**About me**
+**Current Status**
 
-- Masters of Engineering Student at [Institute of Aerospace Studies, University of Toronto](https://www.utias.utoronto.ca//)
+- Pursuing a Masters of Engineering at [Institute of Aerospace Studies, University of Toronto](https://www.utias.utoronto.ca//)
 
-- Worked on Several Front-End Development Projects, mostly using React and Gatsby JS, my favourite front-end tool for creating blazing fast websites
+- Working as a part-time Software Engineer at T-CAIREM
 
-- I have also worked as a full-stack developer, and developed 3 web applications using Django which can be found in my repositories.
+- Back-End Systems Engineer at [Cove Neuro](https://www.coveneuro.com) (UofT Backed Startup)
 
-- Apart from Web Development, you can also find repositories for my coursework material, codes for, Modelling & Simulation, computational Mechanics and Design Optimization codes
+- Designed, Developed & Deployed Autonomous Flight System on a Custom-Built Programmable drone at the Flight Simulation Laboratory, UTIAS - as a Project.
 
-- I have firm grasp on python and Matlab(including Simulink), which I use for modelling, optimization, and Vizualization projects 
+- TA for [Software Design](https://artsci.calendar.utoronto.ca/course/csc207h1), [Systems Programming](https://artsci.calendar.utoronto.ca/course/csc209h1), [Data Modelling](https://engineering.calendar.utoronto.ca/course/mie253h1), [Business Process Engineering](https://engineering.calendar.utoronto.ca/course/mie354h1)
 
-- You can also find some Machine learning and Deep Learning codes, whcih I have utilized for Data Analytics in my traineeship and internship prjects
+- Developed & Maintaining several sites - [Global Summitry Project](https://globalsummitryproject.com/),[Friendly Staffing](https://friendlystaffing.net/),[Personal Site](https://rutvik-solanki.ml), Sharepoint Sites inside UofT Internal Web.
 
 - 💬 It would be great if I could network with you [here](https://linkedin.com/in/connectwithrutvik)
 
@@ -33,11 +33,20 @@ I'm a budding Back-End Software Engineer. I currently work with multiple organiz
 | <a href="https://github.com/rutvikrj26"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvikrj26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rutvik's github stats" /></a> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikrj26&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
- #### Ongoing Side Projects
+ #### Ongoing Projects
 
 <a href="https://github.com/Rutvikrj26/inventory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=inventory&theme=buefy" />
 </a>
+
+<a href="https://github.com/Rutvikrj26/inventory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=physionet-build&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+**I have several private projects done while freelancing for small local businesses and large organizations, and can show them on request.**
 
 <br />
 <br />
