@@ -13,7 +13,7 @@ I'm a budding Systems Engineer with experience in Software systems for Aerospace
 
 - TA for [Software Design](https://artsci.calendar.utoronto.ca/course/csc207h1), [Systems Programming](https://artsci.calendar.utoronto.ca/course/csc209h1), [Data Modelling](https://engineering.calendar.utoronto.ca/course/mie253h1), [Business Process Engineering](https://engineering.calendar.utoronto.ca/course/mie354h1)
 
-- Developed & Maintaining several sites - [Global Summitry Project](https://globalsummitryproject.com/),[Friendly Staffing](https://friendlystaffing.net/),[Personal Site](https://rutvik-solanki.ml), Sharepoint Sites inside UofT Internal Web.
+- Developed & Maintaining several sites - [Global Summitry Project](https://globalsummitryproject.com/),[Friendly Staffing](https://friendlystaffing.net/),[Personal Site](https://rutvik-solanki.netlify.app), Sharepoint Sites inside UofT Internal Web.
 
 - 💬 It would be great if I could network with you [here](https://linkedin.com/in/connectwithrutvik)
 
