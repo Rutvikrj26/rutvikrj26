@@ -3,13 +3,13 @@ I'm a budding Systems Engineer with experience in Software systems for Aerospace
 
 **Current Status**
 
-- Pursuing a Masters of Engineering at [Institute of Aerospace Studies, University of Toronto](https://www.utias.utoronto.ca//)
+- Pursuing a Masters of Engineering at [University of Toronto](https://www.utoronto.ca//)
 
-- Working as a part-time Software Engineer at T-CAIREM
+- Working as a Software Engineer at T-CAIREM, UofT
 
-- Back-End Systems Engineer at [Cove Neuro](https://www.coveneuro.com) (UofT Backed Startup)
+- Back-End Systems Architect at [Cove Neuro](https://www.coveneuro.com) (UofT Backed Startup)
 
-- Designed, Developed & Deployed Autonomous Flight System on a Custom-Built Programmable drone at the Flight Simulation Laboratory, UTIAS - as a Project.
+- Designed, Developed & Deployed Autonomous Flight System on a Custom-Built Programmable drone at the Flight Simulation Laboratory, UTIAS.
 
 - TA for [Software Design](https://artsci.calendar.utoronto.ca/course/csc207h1), [Systems Programming](https://artsci.calendar.utoronto.ca/course/csc209h1), [Data Modelling](https://engineering.calendar.utoronto.ca/course/mie253h1), [Business Process Engineering](https://engineering.calendar.utoronto.ca/course/mie354h1)
 
