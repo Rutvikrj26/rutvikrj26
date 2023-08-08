@@ -35,12 +35,12 @@ I'm a budding Systems Engineer with experience in Software systems for Aerospace
 
  #### Opensource Projects
 
-<a href="[https://github.com/Rutvikrj26/inventory](https://github.com/Rutvikrj26/distribute-caching-system)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=physionet-build&theme=buefy" />
+<a href="https://github.com/Rutvikrj26/distribute-caching-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=distribute-caching-system&theme=buefy" />
 </a>
 
-<a href="[https://github.com/Rutvikrj26/inventory](https://github.com/Rutvikrj26/ETHWaterloo)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=physionet-build&theme=buefy" />
+<a href="https://github.com/Rutvikrj26/ETHWaterloo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=ETHWaterloo&theme=buefy" />
 </a>
 
 <br />
