@@ -11,7 +11,7 @@ I'm a budding Systems Engineer with experience in Software systems for Aerospace
 
 - Designed, Developed & Deployed Autonomous Flight System on a Custom-Built Programmable drone at the Flight Simulation Laboratory, UTIAS.
 
-- TA for [Software Design](https://artsci.calendar.utoronto.ca/course/csc207h1), [Systems Programming](https://artsci.calendar.utoronto.ca/course/csc209h1), [Data Modelling](https://engineering.calendar.utoronto.ca/course/mie253h1), [Business Process Engineering](https://engineering.calendar.utoronto.ca/course/mie354h1)
+- Teaching Assistant for [Software Design](https://artsci.calendar.utoronto.ca/course/csc207h1), [Systems Programming](https://artsci.calendar.utoronto.ca/course/csc209h1), [Data Modelling](https://engineering.calendar.utoronto.ca/course/mie253h1), [Business Process Engineering](https://engineering.calendar.utoronto.ca/course/mie354h1)
 
 - Developed & Maintaining several sites - [Global Summitry Project](https://globalsummitryproject.com/),[Friendly Staffing](https://friendlystaffing.net/),[Personal Site](https://rutvik-solanki.netlify.app), Sharepoint Sites inside UofT Internal Web.
 
