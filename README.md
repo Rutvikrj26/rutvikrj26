@@ -3,9 +3,9 @@ I'm a budding Systems Engineer with experience in designing and implementing dis
 
 **Current Status**
 
-- Pursuing a Masters of Engineering at [University of Toronto](https://www.utoronto.ca//)
-
 - Working as a Software Engineer at T-CAIREM, UofT
+
+**Previous Experiecnes**
 
 - Back-End Systems Architect at [Cove Neuro](https://www.coveneuro.com) (UofT Backed Startup)
 
