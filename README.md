@@ -3,7 +3,7 @@ I'm a budding Systems Engineer with experience in designing and implementing dis
 
 **Current Status**
 
-- Working as a Software Engineer at T-CAIREM, UofT
+- Working as a Software Engineer at UofT
 
 **Previous Experiecnes**
 
