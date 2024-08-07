@@ -1,9 +1,9 @@
-I'm a budding Systems Engineer with experience in designing and implementing distributed software systems for Aerospace, Robotics and Medicine Domains. I currently work as a software engineer with the University of Toronto, helping them develop and improve their infrastructure for proprietary Health Data Analytics Platform (Health Data Nexus). I pursued my Masters of Engineering at University of Toronto. Apart from Swimming(my main hobby), Web development is also my hobby and I love developing elegant websites in my free time as a freelancer. You can learn about my journey on my [personal Website](https://rutvik-solanki.netlify.app) - Still a Work in Progress.
+I'm a budding Systems Engineer with experience in designing and implementing distributed software systems. I currently work as a lead software engineer with the University of Toronto, helping them develop and improve their infrastructure for proprietary Health Data Analytics Platform (Health Data Nexus). I pursued my Masters of Engineering at University of Toronto. Apart from Swimming(my main hobby), Web development is also my hobby and I love developing elegant websites in my free time as a freelancer.
 
 
 **Current Status**
 
-- Working as a Software Engineer at UofT
+- Working as a Lead Software Engineer @ UofT (AI in Healthcare)
 
 **Previous Experiecnes**
 
