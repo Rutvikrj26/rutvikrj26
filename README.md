@@ -39,8 +39,8 @@ I'm a budding Systems Engineer with experience in designing and implementing dis
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=distribute-caching-system&theme=buefy" />
 </a>
 
-<a href="https://github.com/Rutvikrj26/ETHWaterloo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=ETHWaterloo&theme=buefy" />
+<a href="https://github.com/Rutvikrj26/ai-enabled-nft-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvikrj26&repo=ai-enabled-nft-platform&theme=buefy" />
 </a>
 
 <br />
