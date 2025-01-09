@@ -3,7 +3,7 @@ I'm a budding Systems Engineer with experience in designing and implementing dis
 
 **Current Status**
 
-- Working as a Lead Software Engineer @ UofT (AI in Healthcare)
+- Working as a Lead Software Engineer @ UofT (AI in Medicine)
 
 **Previous Experiecnes**
 
